@@ -1,7 +1,3 @@
-# Tractian Frontend Challenge
-
-[Link to challenge repository on Github](https://github.com/tractian/challenges/tree/main/front-end)
-
 ## Run project
 
 ### `yarn start`
